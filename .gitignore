@@ -1,0 +1,23 @@
+Awesome-Embodied-AI/
+RoboTwin/
+@"
+Awesome-Embodied-AI/
+RoboTwin/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+.venv/
+venv/
+
+# Model weights
+*.ckpt
+*.pth
+*.pt
+
+# Secrets
+.env
+*.pem
+"@ | Set-Content -Encoding utf8 .gitignore
