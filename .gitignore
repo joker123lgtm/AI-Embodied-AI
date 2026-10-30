@@ -21,3 +21,5 @@ venv/
 .env
 *.pem
 "@ | Set-Content -Encoding utf8 .gitignore
+Embodied-AI-Guide/
+awesome-humanoid-robot-learning/
