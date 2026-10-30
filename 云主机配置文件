@@ -1,4 +1,3 @@
 #ssh登录指令
 ssh -p 24188 root@region-9.autodl.pro
 #密码
-c/ZWpw2lNSCF
